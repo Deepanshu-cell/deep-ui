@@ -1,5 +1,5 @@
 {
-  "name": "deep-ui",
+  "name": "deep-react-ui",
   "version": "1.0.0",
   "description": "It's a UI Library build up on react",
   "main": "dist/cjs/index.js",
